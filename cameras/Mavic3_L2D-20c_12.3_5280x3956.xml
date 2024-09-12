@@ -1,0 +1,29 @@
+
+<cameraModelDB>
+	<version>19</version>
+	<rigs/>
+	<cameras>
+		<camera name="L2D-20c_12.3_5280x3956" serialNumber="493OJ827AA003J">
+			<imageWidth>5280</imageWidth>
+			<imageHeight>3956</imageHeight>
+			<pixelSize>3.39449</pixelSize>
+			<principalPointXmm>8.951236</principalPointXmm>
+			<principalPointYmm>6.678761</principalPointYmm>
+			<lensType>perspective</lensType>
+			<focalLengthmm>12.5804552</focalLengthmm>
+			<distortion>5</distortion>
+			<radialK1>0.0044647</radialK1>
+			<radialK2>-0.00549164</radialK2>
+			<radialK3>0.0246166</radialK3>
+			<tangentialT1>-0.000468935</tangentialT1>
+			<tangentialT2>-0.000564484</tangentialT2>
+			<cameraModelSource>user</cameraModelSource>
+			<bandConfig>
+				<band name="Red" centralWaveLength="660" width="0" weight="0.2126"/>
+				<band name="Green" centralWaveLength="550" width="0" weight="0.7152"/>
+				<band name="Blue" centralWaveLength="470" width="0" weight="0.0722"/>
+			</bandConfig>
+		</camera>
+	</cameras>
+	<mappings/>
+</cameraModelDB>
